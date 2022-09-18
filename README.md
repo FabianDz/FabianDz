@@ -15,3 +15,6 @@ I'm
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/English-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="">
 </div>
+
+<b>Look at my little dog Lucas: </b>
+![lucas](https://user-images.githubusercontent.com/72846687/190886051-63fa8cec-b790-4394-8eea-5ffa67a5b9eb.jpg)
