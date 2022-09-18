@@ -17,4 +17,7 @@ I'm
 </div>
 
 <b>Look at my little dog Lucas: </b>
-![lucas](https://user-images.githubusercontent.com/72846687/190886051-63fa8cec-b790-4394-8eea-5ffa67a5b9eb.jpg)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/72846687/190886051-63fa8cec-b790-4394-8eea-5ffa67a5b9eb.jpg" width="400" height="300" />
+</div>
