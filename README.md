@@ -7,7 +7,7 @@ I'm
 - Taco al Pastor Lover 🌮❤
 - Imagine Dragons fan 🐲
 
-<b> I'm learning: </b>
+<b> I think we learn something new every day, that's why i say I'm still learning: </b>
 <div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="">
