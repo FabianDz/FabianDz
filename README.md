@@ -3,6 +3,7 @@
 I'm 
 - 19 yo ⌛
 - Informatic💻
+- 5th semester. Facultad de Contaduría y Administración, UNAM. 🎓
 - Mexican 🐍🦅
 - Taco al Pastor Lover 🌮❤
 - Imagine Dragons fan 🐲
