@@ -16,6 +16,7 @@ I'm
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/English-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/WebDesign-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="">
 </div>
 
 <b>Look at my little dog Lucas: </b>
