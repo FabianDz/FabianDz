@@ -1,9 +1,9 @@
 ### Hi, I'm Fabián 👻👀
 
 I'm 
-- 20 yo ⌛
+- 21 yo ⌛
 - Informatic💻
-- 7th semester. Facultad de Contaduría y Administración, UNAM. 🎓
+- 8th semester. Facultad de Contaduría y Administración, UNAM. 🎓
 - Mexican 🐍🦅
 - Taco al Pastor Lover 🌮❤
 - Imagine Dragons fan 🐲
